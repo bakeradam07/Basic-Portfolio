@@ -55,13 +55,12 @@ table{
         padding-left: 20px;
     }
 td, th{
-        border: 1px solid #dddddd;
-        text-align: left;
+        text-align: center;
         padding: 8px;
     }
 .placeholder {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
 }
 
 /*Contact Form CSS */
